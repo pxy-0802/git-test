@@ -1,5 +1,5 @@
-1
-2
+newline
+newday
 3
 4
 5
